@@ -1,5 +1,14 @@
 # Telco Project
 
+## Submission Contents
+
+This repository contains the completed project files in the following locations:
+
+* `sql/TABLE_CREATION_SCRIPTS.sql` - Oracle table creation scripts, constraints, and indexes.
+* `sql/SOLUTIONS.sql` - Tested SQL answers for the functional requirements.
+* `docs/SETUP.md` - Docker, DBeaver, CSV import, verification, and screenshot workflow.
+* `screenshots/` - Result screenshots for setup verification and solution queries.
+
 ## How to Set Up Your Repository
 
 **WARNING**: This is a template project. Do not fork this repository.

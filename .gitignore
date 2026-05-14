@@ -1,0 +1,33 @@
+# Database files and local volumes
+oradata/
+oracle-data/
+data/oracle/
+*.dbf
+*.ctl
+*.log
+*.trc
+*.trm
+
+# Local environment and temp files
+.env
+.env.*
+*.tmp
+*.temp
+tmp/
+temp/
+__pycache__/
+
+# DBeaver and local database client metadata
+.dbeaver/
+.metadata/
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
